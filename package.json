@@ -1,6 +1,6 @@
 {
   "name": "uoa-tns-ng-template",
-  "version": "4.2.0",
+  "version": "1.0.0",
   "main": "main.js",
   "description": "This repo serves as the starting point for a NativeScript+NG scaffold used for UOA CS presentation.",
   "repository": "https://github.com/sktzoootech/uoa-tns-ng-template.git",
