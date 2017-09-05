@@ -1,0 +1,27 @@
+{
+  "name": "uoa-tns-ng-template",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "This repo serves as the starting point for a NativeScript+NG scaffold used for UOA CS presentation.",
+  "repository": "https://github.com/sktzoootech/uoa-tns-ng-template.git",
+  "dependencies": {
+        "@angular/animations": "~4.2.0",
+        "@angular/core": "~4.2.0",
+        "@angular/common": "~4.2.0",
+        "@angular/compiler": "~4.2.0",
+        "@angular/http": "~4.2.0",
+        "@angular/platform-browser": "~4.2.0",
+        "@angular/forms": "~4.2.0",
+        "@angular/router": "~4.2.0",
+        "nativescript-angular": "~4.2.0",
+        "nativescript-theme-core": "~1.0.4",
+        "rxjs": "~5.4.2",
+        "reflect-metadata": "~0.1.8",
+        "tns-core-modules": "~3.1.1",
+        "zone.js": "~0.8.2"
+    },
+    "devDependencies": {
+        "typescript": "~2.4.2",
+        "nativescript-dev-typescript": "~0.5.0"
+    }
+}
